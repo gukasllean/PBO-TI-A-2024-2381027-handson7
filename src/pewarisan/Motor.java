@@ -1,4 +1,4 @@
-package pewarisan;
+package src.pewarisan;
 
 public class Motor extends Kendaraan {
     private int kapasitasMesin;

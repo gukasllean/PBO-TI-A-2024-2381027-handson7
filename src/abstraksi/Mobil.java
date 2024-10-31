@@ -1,4 +1,4 @@
-package abstraksi;
+package src.abstraksi;
 
 public class Mobil extends Kendaraan{
 

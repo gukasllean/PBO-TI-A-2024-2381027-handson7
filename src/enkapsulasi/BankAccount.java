@@ -1,4 +1,4 @@
-package enkapsulasi;
+package src.enkapsulasi;
 
 public class BankAccount {
     private double balance;

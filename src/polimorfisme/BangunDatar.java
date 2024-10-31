@@ -1,4 +1,4 @@
-package polimorfisme;
+package src.polimorfisme;
 
 public class BangunDatar {
     public double hitungluas() {

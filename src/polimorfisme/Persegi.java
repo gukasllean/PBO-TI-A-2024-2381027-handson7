@@ -1,4 +1,4 @@
-package polimorfisme;
+package src.polimorfisme;
 
 public class Persegi extends BangunDatar {
     private double sisi;

@@ -1,4 +1,4 @@
-package contohkelaspertama;
+package src.contohkelaspertama;
 
 public class Mobil {
     String warna;

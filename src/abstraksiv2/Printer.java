@@ -1,4 +1,4 @@
-package abstraksiv2;
+package src.abstraksiv2;
 
 public class Printer implements Cetak {
     @Override

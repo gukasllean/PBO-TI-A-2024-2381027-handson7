@@ -1,4 +1,4 @@
-package polimorfisme;
+package src.polimorfisme;
 
 public class SegitigaSamaSisi extends BangunDatar {
     private double sisi;

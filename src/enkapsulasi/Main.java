@@ -1,4 +1,4 @@
-package enkapsulasi;
+package src.enkapsulasi;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package abstraksi;
-
-import org.w3c.dom.ls.LSOutput;
+package src.abstraksi;
 
 abstract class Kendaraan {
     String warna;
