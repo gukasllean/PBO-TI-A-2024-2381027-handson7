@@ -1,7 +1,7 @@
 package src.polimorfisme;
 
 public class BangunDatar {
-    public double hitungluas() {
+    public double hitungLuas() {
         System.out.println("Menghitung luas");
         return 0;
     }

@@ -4,8 +4,10 @@ public class Motor extends Kendaraan {
     private int kapasitasMesin;
     private String jenisTransmisi;
 
-    public Motor(final String merek, final int tahunProduksi) {
+    public Motor(final String merek, final String model, final int tahunProduksi, final int KapasitasMesin, final String jenisTransmisi) {
         super(merek, model, tahunProduksi);
+        this.kapasitasMesin = kapasitasMesin;
+        this.jenisTransmisi = jenisTransmisi;
     }
 
     public void infoMotor() {

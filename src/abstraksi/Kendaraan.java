@@ -10,6 +10,6 @@ abstract class Kendaraan {
     abstract void bergerak();
 
     void info() {
-        System.out.println("Warna Kendaraan : " + warna);
+        System.out.println("Warna kendaraan : " + warna);
     }
 }

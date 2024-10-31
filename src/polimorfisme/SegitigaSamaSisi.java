@@ -10,7 +10,7 @@ public class SegitigaSamaSisi extends BangunDatar {
     }
 
     @Override
-    public double hitungluas() {
+    public double hitungLuas() {
         return sisi * tinggi * 0.5;
     }
 

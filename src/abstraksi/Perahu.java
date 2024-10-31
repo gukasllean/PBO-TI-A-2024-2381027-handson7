@@ -10,5 +10,4 @@ public class Perahu extends Kendaraan {
     void bergerak() {
         System.out.println("Perahu bergerak di air");
     }
-
 }
